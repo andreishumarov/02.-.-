@@ -1,0 +1,14 @@
+F:\11A-andrei\02.OOP\OOP\ex03CatTom\obj\Debug\netcoreapp3.1\ex03CatTom.csproj.AssemblyReference.cache
+F:\11A-andrei\02.OOP\OOP\ex03CatTom\obj\Debug\netcoreapp3.1\ex03CatTom.GeneratedMSBuildEditorConfig.editorconfig
+F:\11A-andrei\02.OOP\OOP\ex03CatTom\obj\Debug\netcoreapp3.1\ex03CatTom.AssemblyInfoInputs.cache
+F:\11A-andrei\02.OOP\OOP\ex03CatTom\obj\Debug\netcoreapp3.1\ex03CatTom.AssemblyInfo.cs
+F:\11A-andrei\02.OOP\OOP\ex03CatTom\obj\Debug\netcoreapp3.1\ex03CatTom.csproj.CoreCompileInputs.cache
+F:\11A-andrei\02.OOP\OOP\ex03CatTom\bin\Debug\netcoreapp3.1\ex03CatTom.exe
+F:\11A-andrei\02.OOP\OOP\ex03CatTom\bin\Debug\netcoreapp3.1\ex03CatTom.deps.json
+F:\11A-andrei\02.OOP\OOP\ex03CatTom\bin\Debug\netcoreapp3.1\ex03CatTom.runtimeconfig.json
+F:\11A-andrei\02.OOP\OOP\ex03CatTom\bin\Debug\netcoreapp3.1\ex03CatTom.runtimeconfig.dev.json
+F:\11A-andrei\02.OOP\OOP\ex03CatTom\bin\Debug\netcoreapp3.1\ex03CatTom.dll
+F:\11A-andrei\02.OOP\OOP\ex03CatTom\bin\Debug\netcoreapp3.1\ex03CatTom.pdb
+F:\11A-andrei\02.OOP\OOP\ex03CatTom\obj\Debug\netcoreapp3.1\ex03CatTom.dll
+F:\11A-andrei\02.OOP\OOP\ex03CatTom\obj\Debug\netcoreapp3.1\ex03CatTom.pdb
+F:\11A-andrei\02.OOP\OOP\ex03CatTom\obj\Debug\netcoreapp3.1\ex03CatTom.genruntimeconfig.cache
