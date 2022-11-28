@@ -1,0 +1,15 @@
+E:\programirane\FinalizationAndDestructorsEx2\obj\Debug\net6.0\FinalizationAndDestructorsEx2.csproj.AssemblyReference.cache
+E:\programirane\FinalizationAndDestructorsEx2\obj\Debug\net6.0\FinalizationAndDestructorsEx2.GeneratedMSBuildEditorConfig.editorconfig
+E:\programirane\FinalizationAndDestructorsEx2\obj\Debug\net6.0\FinalizationAndDestructorsEx2.AssemblyInfoInputs.cache
+E:\programirane\FinalizationAndDestructorsEx2\obj\Debug\net6.0\FinalizationAndDestructorsEx2.AssemblyInfo.cs
+E:\programirane\FinalizationAndDestructorsEx2\obj\Debug\net6.0\FinalizationAndDestructorsEx2.csproj.CoreCompileInputs.cache
+E:\programirane\FinalizationAndDestructorsEx2\bin\Debug\net6.0\FinalizationAndDestructorsEx2.exe
+E:\programirane\FinalizationAndDestructorsEx2\bin\Debug\net6.0\FinalizationAndDestructorsEx2.deps.json
+E:\programirane\FinalizationAndDestructorsEx2\bin\Debug\net6.0\FinalizationAndDestructorsEx2.runtimeconfig.json
+E:\programirane\FinalizationAndDestructorsEx2\bin\Debug\net6.0\FinalizationAndDestructorsEx2.dll
+E:\programirane\FinalizationAndDestructorsEx2\bin\Debug\net6.0\FinalizationAndDestructorsEx2.pdb
+E:\programirane\FinalizationAndDestructorsEx2\obj\Debug\net6.0\FinalizationAndDestructorsEx2.dll
+E:\programirane\FinalizationAndDestructorsEx2\obj\Debug\net6.0\refint\FinalizationAndDestructorsEx2.dll
+E:\programirane\FinalizationAndDestructorsEx2\obj\Debug\net6.0\FinalizationAndDestructorsEx2.pdb
+E:\programirane\FinalizationAndDestructorsEx2\obj\Debug\net6.0\FinalizationAndDestructorsEx2.genruntimeconfig.cache
+E:\programirane\FinalizationAndDestructorsEx2\obj\Debug\net6.0\ref\FinalizationAndDestructorsEx2.dll
