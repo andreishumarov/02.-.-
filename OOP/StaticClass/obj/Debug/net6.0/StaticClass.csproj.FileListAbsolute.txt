@@ -1,0 +1,15 @@
+E:\programirane\StaticClass\bin\Debug\net6.0\StaticClass.exe
+E:\programirane\StaticClass\bin\Debug\net6.0\StaticClass.deps.json
+E:\programirane\StaticClass\bin\Debug\net6.0\StaticClass.runtimeconfig.json
+E:\programirane\StaticClass\bin\Debug\net6.0\StaticClass.dll
+E:\programirane\StaticClass\bin\Debug\net6.0\StaticClass.pdb
+E:\programirane\StaticClass\obj\Debug\net6.0\StaticClass.csproj.AssemblyReference.cache
+E:\programirane\StaticClass\obj\Debug\net6.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\programirane\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfoInputs.cache
+E:\programirane\StaticClass\obj\Debug\net6.0\StaticClass.AssemblyInfo.cs
+E:\programirane\StaticClass\obj\Debug\net6.0\StaticClass.csproj.CoreCompileInputs.cache
+E:\programirane\StaticClass\obj\Debug\net6.0\StaticClass.dll
+E:\programirane\StaticClass\obj\Debug\net6.0\refint\StaticClass.dll
+E:\programirane\StaticClass\obj\Debug\net6.0\StaticClass.pdb
+E:\programirane\StaticClass\obj\Debug\net6.0\StaticClass.genruntimeconfig.cache
+E:\programirane\StaticClass\obj\Debug\net6.0\ref\StaticClass.dll

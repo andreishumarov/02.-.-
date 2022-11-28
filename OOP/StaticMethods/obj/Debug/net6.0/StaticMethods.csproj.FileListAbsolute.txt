@@ -1,0 +1,5 @@
+E:\programirane\StaticMethods\obj\Debug\net6.0\StaticMethods.csproj.AssemblyReference.cache
+E:\programirane\StaticMethods\obj\Debug\net6.0\StaticMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\programirane\StaticMethods\obj\Debug\net6.0\StaticMethods.AssemblyInfoInputs.cache
+E:\programirane\StaticMethods\obj\Debug\net6.0\StaticMethods.AssemblyInfo.cs
+E:\programirane\StaticMethods\obj\Debug\net6.0\StaticMethods.csproj.CoreCompileInputs.cache

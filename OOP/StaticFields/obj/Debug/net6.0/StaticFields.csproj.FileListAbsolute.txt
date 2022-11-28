@@ -1,0 +1,15 @@
+E:\programirane\StaticFields\bin\Debug\net6.0\StaticFields.exe
+E:\programirane\StaticFields\bin\Debug\net6.0\StaticFields.deps.json
+E:\programirane\StaticFields\bin\Debug\net6.0\StaticFields.runtimeconfig.json
+E:\programirane\StaticFields\bin\Debug\net6.0\StaticFields.dll
+E:\programirane\StaticFields\bin\Debug\net6.0\StaticFields.pdb
+E:\programirane\StaticFields\obj\Debug\net6.0\StaticFields.csproj.AssemblyReference.cache
+E:\programirane\StaticFields\obj\Debug\net6.0\StaticFields.GeneratedMSBuildEditorConfig.editorconfig
+E:\programirane\StaticFields\obj\Debug\net6.0\StaticFields.AssemblyInfoInputs.cache
+E:\programirane\StaticFields\obj\Debug\net6.0\StaticFields.AssemblyInfo.cs
+E:\programirane\StaticFields\obj\Debug\net6.0\StaticFields.csproj.CoreCompileInputs.cache
+E:\programirane\StaticFields\obj\Debug\net6.0\StaticFields.dll
+E:\programirane\StaticFields\obj\Debug\net6.0\refint\StaticFields.dll
+E:\programirane\StaticFields\obj\Debug\net6.0\StaticFields.pdb
+E:\programirane\StaticFields\obj\Debug\net6.0\StaticFields.genruntimeconfig.cache
+E:\programirane\StaticFields\obj\Debug\net6.0\ref\StaticFields.dll
